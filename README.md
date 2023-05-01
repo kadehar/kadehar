@@ -16,6 +16,7 @@
 + [Demowebshop](https://github.com/kadehar/rest-assured-demowebshop) - *Example project of Demowebshop testing using rest-assured and groovy/java.*
 + [Retrofit2 Demo](https://github.com/kadehar/qa-guru-retrofit-lecture) - *Demo code from qa.guru retrofit2 lecture.*
 + [RestAssured vs Retrofit2](https://github.com/kadehar/rest-assured-example) - *Basic example of rest-assured and retrofit2 usage.*
++ [Let everything be Groovy](https://github.com/kadehar/let-everything-be-groovy) - *Base principles of Groovy and GPath for RestAssured (JSON & XML) from qa.guru lecture.*
 
 ### ![](img/setting.png) Configuration
 + [Owner Advanced](https://github.com/kadehar/owner-advanced) - *Advanced example of test project configuration using org.aeonbits.owner library.*
