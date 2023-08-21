@@ -45,19 +45,8 @@
 
 ### Interesting projects:
 
-<div style="
-    display: grid;
-    grid-template-columns: 1fr 1.5fr;
-    grid-gap: 10px;
-">
-<div style="
-    border-radius: 5px;
-    background-color: #eaf6f6;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 300px;
-    color: black;
-">
+<div style="display: grid;grid-template-columns: 1fr 1.5fr;grid-gap: 10px;">
+<div style="border-radius: 5px;background-color: #eaf6f6;box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);transition: 0.3s;width: 300px;color: black;">
     <div style="padding: 2px 16px;">
         <h4><b><a href="https://github.com/qa-guru/allure-notifications" target="blank">Allure Notifications</a></b></h4>
         <p>Library which sends test results to messengers like Slack, Telegram, Skype and so on.</p>
