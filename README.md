@@ -1,7 +1,7 @@
-<div style='text-align: right;'>
+<p align="right">
 <q><em>It's not easy. But it's simple.</em></q><br>
 <cite>Reverend Dave. "God's Not Dead".</cite>
-</div>
+</p>
 
 <h1 align='center'>Hi there, I'm Aleksei</h1>
 <h3 align='center'>Experienced programmer and mentor on <a href="https://qa.guru/" target="blank">qa.guru</a> Java courses</h3>
