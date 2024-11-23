@@ -6,10 +6,10 @@
 <h1 align='center'>Hi there, I'm Aleksei</h1>
 <h3 align='center'>Experienced programmer and mentor on <a href="https://qa.guru/" target="blank">qa.guru</a> Java courses</h3>
 
-  - ⭐ I have **11+ years** of work experience
+  - ⭐ I have **12+ years** of work experience
   - 📚 I’m currently learning **Android, Kotlin, Jetpack Compose**
-  - 💼 My current job position is a **Middle Android Developer (_2 years in total_)**
-  - 💼 My previous job position was a **Senior Test Automation Engineer (_8 years in total_)**
+  - 💼 My current job position is a **Senior Test Automation Engineer (_8 years in total_)**
+  - 💼 My previous job position was a **Middle Android Developer (_2 years in total_)**
   - 💼 My first job position was a **Technical Customer Support (_2 years in total_)**
   - 🌍 I speak **Russian (_native_), English (_B1+_), German (_A2_) and Bulgarian (_A1_)**
 
